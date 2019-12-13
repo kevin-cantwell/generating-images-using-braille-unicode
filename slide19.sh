@@ -1,0 +1,1 @@
+dotmatrix -i gifs/hockey.gif &

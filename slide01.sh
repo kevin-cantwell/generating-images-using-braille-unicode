@@ -1,0 +1,3 @@
+center <<EOF
+to make this work, we need to model images...
+EOF

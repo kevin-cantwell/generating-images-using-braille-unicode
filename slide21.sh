@@ -1,0 +1,1 @@
+dotmatrix -i gifs/nic_cage.gif &
